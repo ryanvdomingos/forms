@@ -2,10 +2,6 @@
 
 A responsive and visually appealing Sign-up Form built as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This project focuses on modern CSS layouts, semantic HTML5, and client-side form validation.
 
-## 📱 Preview
-*(Add a screenshot of your finished project here. You can drag and drop an image into the GitHub editor to generate a link)*
-![Project Screenshot](./path-to-your-image.png)
-
 ## 🎯 Objective
 The main goal of this project was to build a functional sign-up form matching a provided design, with a strong emphasis on:
 - Pixel-perfect implementation from a reference image.
